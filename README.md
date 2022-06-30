@@ -1,2 +1,2 @@
-# BIMarathin2022
+# BIMarathon2022
 Happiness score prediction model with data visualization
