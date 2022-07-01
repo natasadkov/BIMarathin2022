@@ -1,5 +1,6 @@
 # BIMarathon2022
-Happiness score prediction model with data visualization
+
+2020 - 2021 US AUTO SALES BY MODEL ANALYSIS
 
 Requester(s): Marina Manulik
 Date: Jun 30, 2022
@@ -7,26 +8,35 @@ Audience (intended users): public
 Geographical Impact: World (150 countries)
 Requested go live date: August 30, 2022
 
-Problem Statement
 
-What of the metric (Social support, Healthy life expectancy, Freedom to make life choices, Perceptions of corruption, Population) or groups of them are most correlated with the score of happiness and that metric or group of them the most reliable and that is prediction formula for happiness score.
- . 
+Problem Statement
+Is there any noticable tendancy in car selling during 2020-2021 in the USA car market
+
 What are the business questions this report will answer? 
-Understanding which metric or group of them are the most correlated with the score of happiness can help to build the prediction model and predict changes in the score along with changes with metrics, that can help predict changes along with social economical changes.
+
+How auto sales was changed during 2020-2021, that brands and models of cars most salled in the USA, wich month in each of year has most sales
+
 
 Business Justification (Benefits/ROI)
-The analyses of the dataset with dimensions Country name, Region Indicator, Ladder (happiness) score, and facts(metrics) - Social support, Healthy life expectancy, Freedom to make life choices, Perceptions of corruption, and Population will be running through linear regression analysis for understanding dependencies and reliability of metrics. The visual dashboard will show a map with dependent metrics and present visual support for understanding data tendency. Ultimately, this reporting will be used to build a prediction model for happiness scores. Success will be measured by showing if there are reliable/unreliable dependencies between metrics and happiness scores.
+
+The analyses of the dataset with dimensions Year, Brand, Model and facts(metrics) - AVG, SUM, Total by month, quarter, year. Success will be measured by showing if there are any nitable tendency in those two years.
 
 List of desired fields along the user story in the dashboard
 Field Name	
 
-Country name		
-Region Indicator		
-Ladder (happiness) score		
-Social support		
-Healthy life expectancy		
-Freedom to make life choices,		
-Perceptions of corruption		
-Population		
+Model	
+Brand name		
+Year
+Quarter
+Month
+
+AVG
+SUM
+Total
+
+
+Data Source - 
+https://www.goodcarbadcar.net/2021-us-vehicle-sales-figures-by-model/ - 2021 Auto Sales US
+https://www.goodcarbadcar.net/2020-us-vehicle-sales-figures-by-model/ 2020 US AUTO SALES BY MODEL ANALYSIS
 
 
