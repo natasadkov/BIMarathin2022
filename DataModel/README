@@ -1,0 +1,4 @@
+Business Value - Auto sales
+Grain - Auto Sales by month/year tendency
+Dimensions - Make, Model, Date(Year,Month, Quarter), Location ( Country, Region, State) 
+Facts  - SUM of Auto Sales by month/quarter/year
