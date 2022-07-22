@@ -1,11 +1,10 @@
 # BIMarathon2022
 
-2020 - 2021 US AUTO SALES BY MODEL ANALYSIS
+BodyFat ANALYSIS
 
 Requester(s): Marina Manulik
 Date: Jun 30, 2022
 Audience (intended users): public
-Geographical Impact: World (150 countries)
 Requested go live date: August 30, 2022
 
 
@@ -38,5 +37,8 @@ Total
 Data Source - 
 https://www.goodcarbadcar.net/2021-us-vehicle-sales-figures-by-model/ - 2021 Auto Sales US
 https://www.goodcarbadcar.net/2020-us-vehicle-sales-figures-by-model/ 2020 US AUTO SALES BY MODEL ANALYSIS
+
+{\displaystyle {\text{Adult body fat percentage}}=(1.20\times {\text{BMI}})+(0.23\times {\text{age}})-(10.8\times {\text{sex}})-5.4}
+where sex is 0 for females and 1 for males.
 
 
