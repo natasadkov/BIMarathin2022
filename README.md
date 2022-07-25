@@ -46,4 +46,7 @@ https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/bod
 
 https://en.wikipedia.org/wiki/Body_fat_percentage
 
+Accuracy of Siri and Brozek equations in the percent body fat estimation in older adults
+https://pubmed.ncbi.nlm.nih.gov/21085903/
+
 
