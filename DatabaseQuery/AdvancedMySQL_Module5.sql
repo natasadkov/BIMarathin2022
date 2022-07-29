@@ -83,6 +83,11 @@ EXCEPT
 SELECT neck, chest from body_fat_temp
 
 
+--- ADDING NEW CALCULATED COLUMN IN body_fat_temp ---
+USE bi_marathon_bodyfat
+ALTER TABLE body_fat_temp
+ADD COLUMN 'BMI' int GENERATED ALWAYS AS((weight*703)/(height*height)) STORED AFTER 'bodyfat';
+
 
 
 
