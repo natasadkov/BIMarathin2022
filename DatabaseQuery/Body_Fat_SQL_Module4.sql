@@ -71,6 +71,15 @@ AS (SELECT age, bodyfat, weight,
 SELECT *
 FROM CTE;
 
+---checking duplicated row--
+SELECT density 
+FROM (SELECT density_id, density, row_number()
+OVER (partition by density order by density) as row_num
+from bone) as temp_bone 
+WHERE  row_num >1
+
+---1.0708 duplicated ---
+
 --- duplicate found----
 
 WITH CTE (age, 
@@ -85,6 +94,23 @@ DELETE FROM CTE
 WHERE duplicatecount >1
 
 ---- delete does not wotk in mysql---
+
+-- using two methods of removing duplicates for mysql
+ 
+ ---first method by DELETE JOIN statment ---
+
+DELETE t1 FROM bone t1
+INNER JOIN bone t2
+WHERE t1.density_id>t2.density_id and t1.density = t2.density
+
+--- second delete by Row_number statment---
+
+DELETE FROM bone 
+WHERE density IN (SELECT density 
+FROM (SELECT density, row_number()
+OVER (partition by density order by density) as row_num
+FROM bone) as temp_bone 
+WHERE row_num >1;
 
 
 ----case WHEN to create new column in body_fat_temp---
