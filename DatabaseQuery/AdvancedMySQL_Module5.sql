@@ -86,7 +86,12 @@ SELECT neck, chest from body_fat_temp
 --- ADDING NEW CALCULATED COLUMN IN body_fat_temp ---
 USE bi_marathon_bodyfat
 ALTER TABLE body_fat_temp
-ADD COLUMN 'BMI' int GENERATED ALWAYS AS((weight*703)/(height*height)) STORED AFTER 'bodyfat';
+ADD COLUMN BMI int GENERATED ALWAYS AS((weight*703)/(height*height)) STORED AFTER bodyfat;
+
+USE bi_marathon_bodyfat
+ALTER TABLE body_fat_temp
+ADD COLUMN Brozek_indx FLOAT GENERATED ALWAYS AS((4.57/density - 4.142) * 100) STORED AFTER bodyfat;
+
 
 
 
