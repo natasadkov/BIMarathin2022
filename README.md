@@ -39,7 +39,8 @@ Performance Research Center, Brigham Young University, Provo, Utah
 for non-commercial purposes.  Reference to the data is made in Penrose,
 et al. (1985).
 
-
+Body fat percentage chart
+https://www.medicalnewstoday.com/articles/body-fat-percentage-chart#men
 
 https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
 https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/body-mass-index-as-a-measure-of-body-fatness-age-and-sexspecific-prediction-formulas/9C03B18E1A0E4CDB0441644EE64D9AA2
