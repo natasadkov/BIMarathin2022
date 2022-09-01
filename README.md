@@ -30,6 +30,20 @@ In a given dataset next columns was added in MySQL workbench:
 </pre>
 Data Vusialization Cross-sectional Analysys https://public.tableau.com/shared/2ZCNNNR3X?:display_count=n&:origin=viz_share_link
 
+
+
+Comparison of the effectiveness of body mass index and body fat percentage in defining body composition.
+A. R. Goonasegaran, Fatin Nabila, Nurul Shuhada Shuhada
+Published 1 June 2012
+Medicine
+Singapore medical journal
+INTRODUCTION Body mass index (BMI) has limited diagnostic performance due to its inability to discriminate between fat and lean mass. 
+This study was conducted to compare the effectiveness of body fat percentage (BFP) against BMI in defining body composition. 
+
+
+https://pubmed.ncbi.nlm.nih.gov/22711041/
+ 
+
 Data Source 
 - Sourse:
 The data was provided by Dr. A. Garth Fisher, Human
