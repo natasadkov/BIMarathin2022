@@ -28,6 +28,7 @@ In a given dataset next columns was added in MySQL workbench:
  - health_range = non-healthy/ healthy
 
 </pre>
+Data Vusialization Cross-sectional Analysys https://public.tableau.com/shared/2ZCNNNR3X?:display_count=n&:origin=viz_share_link
 
 Data Source 
 - Sourse:
