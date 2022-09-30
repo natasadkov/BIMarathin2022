@@ -3,24 +3,7 @@ use bi_marathon_bodyfat;
 SELECT *
 FROM bone;
 ----- checking duplicates--
-SELECT density_id, COUNT(density_id) AS CNT
-FROM bone
-GROUP BY density_id
-Having COUNT(density_id) > 1;
 
---- ANSWER - zero duplicates --
--- adding duplicates -- 
-INSERT INTO bone (density_id, density)
-VALUES (1, 1.0708)
-
---- duplicate entry error -- 
-
-SELECT bodyfat_id, COUNT(bodyfat_id) AS CNT
-FROM bodyfat
-GROUP BY bodyfat_id
-Having COUNT(bodyfat_id) > 1;
-
----checking duplicates in temporary table---
 SELECT age,bodyfat, weight, COUNT(bodyfat) as CNT
 FROM body_fat_temp
 GROUP BY age,bodyfat, weight
@@ -93,7 +76,7 @@ AS (SELECT age, bodyfat, weight,
 DELETE FROM CTE
 WHERE duplicatecount >1
 
----- delete does not wotk in mysql---
+---- delete does not work in mysql---
 
 -- using two methods of removing duplicates for mysql
  
