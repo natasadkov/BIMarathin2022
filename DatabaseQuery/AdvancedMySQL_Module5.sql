@@ -37,7 +37,7 @@ on c.density_id =b.density_id
 )
 Select * from cte_org;
 
----question???----
+
 
 ---3.--- pivoting data with case when ---
 SELECT *, 
