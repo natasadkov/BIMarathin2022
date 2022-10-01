@@ -1,4 +1,4 @@
-# BIMarathonSummer2022
+# BI_Project_Summer2022
 
 <b>BodyFat dataset analysis and comparison with BMI range categorizing </b>
 
