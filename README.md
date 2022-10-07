@@ -68,5 +68,5 @@ https://pubmed.ncbi.nlm.nih.gov/21085903/
 - Article that motivated me on that project 
 https://straighthealth.com/you-cant-handle-the-bmi-truth/
 
-<b>Notice: My fandingd was based on given data set (251 observants) and cannot be generalized to the entire population without further rigorous investigation</b>
+<b>Notice: My works was based on given data set (251 observants) and results cannot be generalized to the entire population without further rigorous investigation</b>
 
