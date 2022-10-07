@@ -9,7 +9,7 @@ Requested go live date: August 30, 2022
 
 
 Problem Statement:
-How categorizing of body fat corelates with categorizing of BMI index
+How categorizing of body fat corelates with categorizing of BMI index based on the data set with 251 observations
 
 
 Business Justification:
@@ -40,7 +40,6 @@ Singapore medical journal
 INTRODUCTION Body mass index (BMI) has limited diagnostic performance due to its inability to discriminate between fat and lean mass. 
 This study was conducted to compare the effectiveness of body fat percentage (BFP) against BMI in defining body composition. 
 
-
 https://pubmed.ncbi.nlm.nih.gov/22711041/
  
 
@@ -68,4 +67,6 @@ https://pubmed.ncbi.nlm.nih.gov/21085903/
 
 - Article that motivated me on that project 
 https://straighthealth.com/you-cant-handle-the-bmi-truth/
+
+Disclamer : My fandingd was based on given data set (251 observants/ 
 
