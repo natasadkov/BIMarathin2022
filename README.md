@@ -18,7 +18,7 @@ The analysis of the dataset provided with dimensions and facts(metrics) : Fat Ra
 
 <pre>
 
-In a given dataset next columns was added in MySQL workbench:
+In a given raw dataset next columns was added in MySQL workbench and saved as modified_bodyfat:
 
  - Siri index = (495 /density) - 450)
  - Brozek index = (4.57 /density) - 4.142) * 100)
