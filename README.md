@@ -14,7 +14,7 @@ How categorizing of body fat corelates with categorizing of BMI index based on t
 
 Business Justification:
 
-The analyses of the dataset provided with dimensions Fat Rage, Health Range, Weight Status (BMI)and facts(metrics) - Density, Age,	Weight,	Height,	Neck, Chest,Abdomen, Hip,	Thigh,	Knee,	Ankle,	Biceps,	Forearm,	Wrist. Success will be measured by showing if there are any notable tendency or difference between Fat Rage, Health Range, Weight Status (BM) categorizing.
+The analyses of the dataset provided with dimensions and facts(metrics) : Fat Rage, Health Range, Weight Status (BMI), Density, Age,	Weight,	Height,	Neck, Chest,Abdomen, Hip,	Thigh,	Knee,	Ankle,	Biceps,	Forearm,	Wrist. Success will be measured by showing if there are any notable tendency or difference between Fat Rage, Health Range, Weight Status (BM) categorizing.
 
 <pre>
 
@@ -28,6 +28,7 @@ In a given dataset next columns was added in MySQL workbench:
  - health_range = non-healthy/ healthy
 
 </pre>
+Visualization:
 Cross-sectional analysis of distribution BMI and BodyFat ranges https://public.tableau.com/views/Cross-sectionalanalysisofdistributionBMIandBodyFatranges_/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
