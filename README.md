@@ -69,5 +69,7 @@ https://pubmed.ncbi.nlm.nih.gov/21085903/
 - Article that motivated me on that project 
 https://straighthealth.com/you-cant-handle-the-bmi-truth/
 
+For a man, 2–5% fat is essential, 2–24% fat is considered healthy, and more than 25% classifies as obesity (https://goshenhealth.com/blog-articles/february-2017/bmi-vs-body-fat-which-number-is-more-important)
+
 <b>Notice: My works was based on given data set (251 observants) and results cannot be generalized to the entire population without further rigorous investigation</b>
 
