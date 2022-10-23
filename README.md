@@ -3,8 +3,8 @@
 <b>BodyFat dataset analysis and comparison with BMI range categorizing </b>
 
 Requester: Marina Manulik
-Date: Jun 30, 2022
-Audience (intended users): public
+Date: Jun 30, 2022 </p>
+Audience (intended users): public </p>
 Requested go live date: August 30, 2022
 
 
@@ -18,7 +18,7 @@ The analysis of the dataset provided with dimensions and facts(metrics) : Fat Ra
 
 <pre>
 
-In a given raw dataset next columns was added in MySQL workbench and saved as modified_bodyfat:
+In a given raw dataset next columns was added in MySQL workbench and saved as new table modified_bodyfat:
 
  - Siri index = (495 /density) - 450)
  - Brozek index = (4.57 /density) - 4.142) * 100)
