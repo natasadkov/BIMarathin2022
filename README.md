@@ -9,12 +9,12 @@ Requested go live date: August 30, 2022
 
 
 Problem Statement:
-How categorizing of body fat corelates with categorizing of BMI index based on the data set with 251 observations
+How categorizing of body fat correspond with categorizing of BMI index based on the data set with 251 observations
 
 
 Business Justification:
 
-The analysis of the dataset provided with dimensions and facts(metrics) : Fat Rage, Health Range, Weight Status (BMI), Density, Age,	Weight,	Height,	Neck, Chest,Abdomen, Hip,	Thigh,	Knee,	Ankle,	Biceps,	Forearm,	Wrist. Success will be measured by showing if there are any notable tendency or difference between Fat Rage, Health Range, Weight Status (BM) categorizing.
+The analysis of the dataset provided with dimensions and facts(metrics) : Fat Rage, Health Range, Weight Status (BMI), Density, Age,	Weight,	Height,	Neck, Chest,Abdomen, Hip,	Thigh,	Knee,	Ankle,	Biceps,	Forearm,	Wrist. Success will be measured by showing if there are any notable tendency in corresponding between Fat Rage, Health Range, Weight Status (BM) categorizing.
 
 <pre>
 
