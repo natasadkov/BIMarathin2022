@@ -56,7 +56,7 @@ These factors are relevant to overall health and assessing body fat. For example
 
 #### Findings</p> 
 On the given data set I found the noticible difference between ranges for BMI and FatIndex. </p> 
-There is <b> 13% </b> cases with obesity status according BMI range over <b>18.7%</b> cases with dangerously high level of Fat Index</p> 
+There is <b> 13.1% </b> cases with obesity status according BMI range over <b>18.7%</b> cases with dangerously high level of Fat Index</p> 
 There is <b> 43.40% </b> cases with overweight status according BMI range persons over <b> 28.2%</b> poor/fair Fat Index.</p> 
 There is <b> 43.40% </b> cases with normal weight status according BMI range over <b>46.2%</b>  exellent Fat Index. </p> 
 There is  <b> 0.39% </b> cases with underweight status according BMI range over <b>9.56%</b>  dangerously low Fat Index. </p> 
