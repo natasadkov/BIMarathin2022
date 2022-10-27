@@ -30,7 +30,7 @@ In a given raw dataset next columns was added in MySQL workbench and saved as ne
 
 </pre>
 #### Visualization:</p>
-Cross-sectional analysis of distribution BMI and BodyFat ranges </p> https://public.tableau.com/views/Cross-sectionalanalysisofdistributionBMIandBodyFatranges_/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Cross-sectional analysis of distribution BMI and BodyFat ranges </p> https://public.tableau.com/views/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ***
 <b>Inspiration</b>
@@ -56,11 +56,11 @@ These factors are relevant to overall health and assessing body fat. For example
 
 #### Findings</p> 
 On the given data set I found the noticible difference between ranges for BMI and FatIndex. </p> 
-There is <b> 13.1% </b> cases with obesity status according BMI range over <b>18.7%</b> cases with dangerously high level of Fat Index</p> 
-There is <b> 43.40% </b> cases with overweight status according BMI range persons over <b> 28.2%</b> poor/fair Fat Index.</p> 
-There is <b> 43.40% </b> cases with normal weight status according BMI range over <b>46.2%</b>  exellent Fat Index. </p> 
-There is  <b> 0.39% </b> cases with underweight status according BMI range over <b>9.56%</b>  dangerously low Fat Index. </p> 
-Where is a noticible consentration of data above average BMI in cases between 35-55 age
+There is <b> 13.1% </b> cases with obesity status according BMI range over <b>18.65%</b> cases with dangerously high level of Fat Index</p> 
+There is <b> 43.25% </b> cases with overweight status according BMI range over <b> 28.17%</b> poor/fair of Fat Index.</p> 
+There is <b> 43.25% </b> cases with normal weight status according BMI range over <b>46.2%</b> exellent of Fat Index. </p> 
+There is  <b> 0.40% </b> cases with underweight status according BMI range over <b>9.52%</b>  dangerously low  of Fat Index. </p> 
+In distribution Body Fat Index and BMI over the age there are same tandency in increasing indexes between 35-50 years
 
 ***
 <b>Data Source </b> 
