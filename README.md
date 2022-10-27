@@ -60,6 +60,7 @@ There is <b> 13.1% </b> cases with obesity status according BMI range over <b>18
 There is <b> 43.40% </b> cases with overweight status according BMI range persons over <b> 28.2%</b> poor/fair Fat Index.</p> 
 There is <b> 43.40% </b> cases with normal weight status according BMI range over <b>46.2%</b>  exellent Fat Index. </p> 
 There is  <b> 0.39% </b> cases with underweight status according BMI range over <b>9.56%</b>  dangerously low Fat Index. </p> 
+Where is a noticible consentration of data above average BMI in cases between 35-55 age
 
 ***
 <b>Data Source </b> 
