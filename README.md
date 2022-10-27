@@ -88,6 +88,6 @@ https://straighthealth.com/you-cant-handle-the-bmi-truth/
 
 For a man, 2–5% fat is essential, 2–24% fat is considered healthy, and more than 25% classifies as obesity (https://goshenhealth.com/blog-articles/february-2017/bmi-vs-body-fat-which-number-is-more-important)</p>
 ***
-#### Notice: My work was based on 251 observants ( one was excluded as outlier), results cannot be generalized to the entire population without further rigorous investigation. Average body fat percentages vary across race and ethnicity and cannot be used separetly for body shape </b></p>
+#### Notice: My work was based on 251 observants ( one was excluded as outlier), project results cannot be generalized to the entire population without further rigorous investigation. </b></p>
 ***
 
