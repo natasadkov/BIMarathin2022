@@ -1,6 +1,6 @@
 ## BI_Mentorship_Program_Summer2022
 ***
-### BodyFat dataset analysis and comparison with BMI range categorizing
+### Cross-sectional analysis of distribution BMI and BodyFat ranges
 ***
 
 Requester: Marina Manulik
