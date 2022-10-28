@@ -1,6 +1,6 @@
 ## BI_Mentorship_Program_Summer2022
 ***
-### Cross-sectional analysis of distribution BMI and BodyFat ranges
+### Cross-sectional analysis of distribution BMI and Body Fat Index ranges
 ***
 
 Requester: Marina Manulik
