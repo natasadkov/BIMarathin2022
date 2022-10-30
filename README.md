@@ -47,7 +47,7 @@ In a given raw dataset next columns was added in MySQL workbench and saved as ne
 </pre>
 ***
 #### Visualization:</p>
-Cross-sectional analysis of distribution BMI and BodyFat ranges </p> https://public.tableau.com/views/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison?:language=en-US&:display_count=n&:origin=viz_share_link 
+Cross-sectional analysis of distribution BMI and BodyFat ranges </p>https://public.tableau.com/views/Cross-sectionalanalysis/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison?:language=en-US&:display_count=n&:origin=viz_share_link </p>
 
 ***
 #### Findings
