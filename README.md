@@ -52,7 +52,7 @@ Cross-sectional analysis of distribution BMI and BodyFat ranges </p>https://publ
 ***
 #### Findings
 
-On the given data set I found the noticible difference between ranges for BMI and FatIndex. </p> 
+On the given data set I found the noticeable difference between ranges for BMI and FatIndex. </p> 
 There is <b> 13.1% </b> cases with obesity status according BMI range over <b>18.65%</b> cases with dangerously high level of Fat Index</p> 
 There is <b> 43.25% </b> cases with overweight status according BMI range over <b> 28.17%</b> poor/fair of Fat Index.</p> 
 There is <b> 43.25% </b> cases with normal weight status according BMI range over <b>46.2%</b> exellent of Fat Index. </p> 
