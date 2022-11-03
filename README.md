@@ -27,7 +27,7 @@ Medically reviewed by Micky Lal, MA, CSCS,RYT — By Zawn Villines — Updated o
 
 ***
 #### Problem Statement:
-How categorizing of body fat correspond with categorizing of BMI index based on the data set with 252 observations
+How categorizing of body fat index correspond with categorizing of BMI (body mass index) based on the data set with 252 observations
 
 
 #### Business Justification:
