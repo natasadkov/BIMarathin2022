@@ -27,7 +27,7 @@ Medically reviewed by Micky Lal, MA, CSCS,RYT — By Zawn Villines — Updated o
 
 ***
 #### Problem Statement:
-How categorizing of body fat index correspond with categorizing of BMI (body mass index) based on the data set with 252 observations
+To investigate the correlation between the categorization of Body Fat Index (BFI) and Body Mass Index (BMI) based on a data set of 252 observations.
 
 
 #### Business Justification:
@@ -88,6 +88,6 @@ https://straighthealth.com/you-cant-handle-the-bmi-truth/
 
 For a man, 2–5% fat is essential, 2–24% fat is considered healthy, and more than 25% classifies as obesity (https://goshenhealth.com/blog-articles/february-2017/bmi-vs-body-fat-which-number-is-more-important)</p>
 ***
-#### Notice: My work was based on 251 observants ( one was excluded as outlier), project results cannot be generalized to the entire population without further rigorous investigation. </b></p>
+#### Notice: My work was based on 251 observants (one was excluded as outlier), project results cannot be generalized to the entire population without further rigorous investigation. </b></p>
 ***
 
