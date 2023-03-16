@@ -3,7 +3,7 @@
 ### Cross-sectional analysis of distribution BMI and Body Fat Index ranges
 ***
 
-Requester: Marina Manulik
+
 Date: Jun 30, 2022 </p>
 Audience (intended users): public </p>
 Requested go live date: August 30, 2022
